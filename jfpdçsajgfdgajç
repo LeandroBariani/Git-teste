@@ -1,0 +1,29 @@
+* [33mcommit 0531f57fdea878f175bbe2bb83af7cd0765a97e0[m[33m ([m[1;36mHEAD -> [m[1;32mramo2[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Leandro Bariani <leandrobariani@gmail.com>
+[31m|[m Date:   Fri Mar 19 20:36:05 2021 -0300
+[31m|[m 
+[31m|[m     modificado artigos.html
+[31m|[m 
+* [33mcommit 6a330f56e3402cec96c05d10d0085204ca2c683c[m
+[31m|[m Author: Leandro Bariani <leandrobariani@gmail.com>
+[31m|[m Date:   Fri Mar 5 00:20:29 2021 -0300
+[31m|[m 
+[31m|[m     artigos.html alterei completamente o projeto para Git Teste
+[31m|[m 
+* [33mcommit d133cf067e2d2c4d64bedd048e5384882a283665[m
+[31m|[m Author: Leandro Bariani <leandrobariani@gmail.com>
+[31m|[m Date:   Fri Mar 5 00:13:29 2021 -0300
+[31m|[m 
+[31m|[m     artigos.html modifiquei o título
+[31m|[m 
+* [33mcommit dd33eb42e22085b57f8b73f6d34011a69b571577[m
+[31m|[m Author: Leandro Bariani <leandrobariani@gmail.com>
+[31m|[m Date:   Sun Feb 28 18:46:28 2021 -0300
+[31m|[m 
+[31m|[m     adicionado index.html
+[31m|[m 
+* [33mcommit fe6f48c9321ceab850772cae6e6f55656905a4d8[m
+  Author: Leandro Bariani <leandrobariani@gmail.com>
+  Date:   Sun Feb 28 18:09:07 2021 -0300
+  
+      Criado o arquivo .artigos.html
